@@ -17,7 +17,7 @@ public class Main {
         System.out.println("----------");
         for (String student : students) {
             System.out.println(student);
-            System.out.println(" ");
+            System.out.println("");
         }
 	}
 
